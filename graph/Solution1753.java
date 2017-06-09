@@ -76,9 +76,6 @@ public class Solution1753 {
 				}
 			}
 		}
-		for(int num : result){
-			System.out.println(num == INF ? "INF" : num);
-		}
 	
 	}
 }
